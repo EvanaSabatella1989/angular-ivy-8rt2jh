@@ -12,4 +12,8 @@ bgPropertyValid = true;
   ngOnInit() {
   }
 
+  onSaludar(){
+    alert("Hola mundo");
+  }
+
 }
